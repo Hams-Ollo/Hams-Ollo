@@ -35,7 +35,7 @@ I'm a **DevOps Engineer and AI Developer** passionate about building scalable, e
 
 - LinkedIn: [Hans Havlik](https://www.linkedin.com/in/hans-havlik-86178979/)
 - Email: hhavlik318@gmail.com
-- GitHub: @Hams-Ollo
+- GitHub: @Hams-Ollo https://github.com/Hams-Ollo
 
 ---
 
