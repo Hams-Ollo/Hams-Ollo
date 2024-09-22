@@ -1,44 +1,56 @@
 ### 👋 Hi there! I'm Hans Havlik (@Hams-Ollo)
 
-I am a **DevOps Engineer and AI Developer** with a passion for building scalable, efficient, and robust systems. My primary focus is on implementing **LLM-based applications**, orchestrating multi-agent systems, and creating high-quality, secure, and user-centric software solutions.
+I'm a **DevOps Engineer and AI Developer** passionate about building scalable, efficient, and robust systems. My primary focus is on implementing **LLM-based applications**, orchestrating multi-agent systems, and creating high-quality, secure, and user-centric software solutions.
 
 ---
 
-### 👀 I’m interested in:
-- Generative AI (LLMs, NLP, and multi-agent systems)
-- Cloud DevOps and Infrastructure as Code (IaC)
-- AI-driven monitoring and analytics tools
-- Scalability and automation in software delivery pipelines
-- Open-source contributions and learning new technologies
+### 🚀 What I'm Up To:
+
+- Developing **Generative AI** applications with a focus on LLMs, NLP, and multi-agent systems
+- Implementing **Cloud DevOps** strategies and containerization
+- Designing AI-driven monitoring and analytics tools
+- Enhancing scalability and automation in software delivery pipelines
+- Contributing to open-source projects and continuously learning new technologies
 
 ---
 
-### 🌱 I’m currently learning:
+### 🌱 Currently Learning:
+
 - Advanced monitoring strategies with **LangSmith** and distributed tracing tools
 - Integrating AI solutions into enterprise-level applications
 - Building fault-tolerant, multi-cloud DevOps architectures
-- Next-gen AI/ML frameworks for predictive analytics
+- Exploring next-gen AI/ML frameworks for predictive analytics
 
 ---
 
-### 💞️ I’m looking to collaborate on:
+### 💡 Looking to Collaborate On:
+
 - AI-powered DevOps tools and infrastructure automation
 - Open-source projects related to AI Ops, cloud, and DevOps tooling
-- Innovative AI-driven applications that leverage cutting-edge technologies
+- Innovative AI-driven applications leveraging cutting-edge technologies
 
 ---
 
-### 📫 How to reach me:
+### 📫 Connect With Me:
+
 - LinkedIn: [Hans Havlik](https://www.linkedin.com/in/hans-havlik-86178979/)
 - Email: hhavlik318@gmail.com
 - GitHub: @Hams-Ollo
 
 ---
 
-### 😄 Pronouns: 
-- He/Him
+### 🛠️ Tech Stack:
 
----
-
-### ⚡ Fun fact:
-- When I’m not deep in code, I’m either **free diving**, cruising on my **motorcycle**, practicing the precision of **Zen archery**, or immersing myself in **MMORPGs** as a longtime gamer. 🏍️🎯🎮
+```python
+tech_stack = {
+    "DevOps & Cloud": ["Azure DevOps", "Docker", "Kubernetes", "GCP", "AWS"],
+    "AI/ML": ["LangChain", "Hugging Face", "TensorFlow", "PyTorch", "OpenAI"],
+    "Languages": ["Python", "SQL", "JavaScript", "Bash", "C#", "HTML", "CSS", "React"],
+    "Monitoring": ["AppDynamics", "Splunk", "Elastic", "LangSmith", "Grafana", "Prometheus"],
+    "Databases": ["PostgreSQL", "Redis", "Pinecone", "MongoDB"],
+    "Frameworks": ["Flask", "SQLAlchemy", "Pydantic"],
+    "NLP & OCR": ["spaCy", "EasyOCR", "Tesseract"],
+    "Data Processing": ["NumPy", "Pandas", "SciPy", "Scikit-learn"],
+    "Image Processing": ["OpenCV", "Pillow"],
+    "Document Handling": ["PyPDF2", "python-docx"]
+}
