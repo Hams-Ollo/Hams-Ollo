@@ -1,50 +1,49 @@
-### 👋 Hi there! I'm Hans Havlik (@Hams-Ollo)
+👋 Hi there! I'm Hans Havlik (@Hams-Ollo)
+I'm a DevOps Engineer and AI Developer passionate about building scalable, efficient, and robust systems. My primary focus is on implementing LLM-based applications, orchestrating multi-agent systems, and creating high-quality, secure, and user-centric software solutions.
 
-I'm a **DevOps Engineer and AI Developer** passionate about building scalable, efficient, and robust systems. My primary focus is on implementing **LLM-based applications**, orchestrating multi-agent systems, and creating high-quality, secure, and user-centric software solutions.
+🚀 What I'm Up To:
 
----
+Developing Generative AI applications with a focus on LLMs, NLP, and multi-agent systems
+Implementing Cloud DevOps strategies and containerization
+Designing AI-driven monitoring and analytics tools
+Enhancing scalability and automation in software delivery pipelines
+Contributing to open-source projects and continuously learning new technologies
 
-### 🚀 What I'm Up To:
+Current Project: Project Echo
 
-- Developing **Generative AI** applications with a focus on LLMs, NLP, and multi-agent systems
-- Implementing **Cloud DevOps** strategies and containerization
-- Designing AI-driven monitoring and analytics tools
-- Enhancing scalability and automation in software delivery pipelines
-- Contributing to open-source projects and continuously learning new technologies
+Designing and implementing a multi-agent system using LangGraph and LangChain
+Creating an Orchestrator Agent to manage specialized AI agents
+Developing modular architecture for easy integration of new agents and functionalities
+Implementing robust state management across the multi-agent system
+Integrating external services like Google Calendar and location-based services
+Exploring speech-to-text and text-to-speech capabilities for enhanced user interaction
 
-#### Current Project: Project Echo
-- Designing and implementing a multi-agent system using LangGraph and LangChain
-- Creating an Orchestrator Agent to manage specialized AI agents
-- Developing modular architecture for easy integration of new agents and functionalities
-- Implementing robust state management across the multi-agent system
-- Integrating external services like Google Calendar and location-based services
 
----
+🌱 Currently Learning:
 
-### 🌱 Currently Learning:
+Advanced LangGraph techniques for complex multi-agent workflows
+Implementing and optimizing LangChain for efficient LLM interactions
+Advanced monitoring strategies with LangSmith and distributed tracing tools
+Integrating AI solutions into enterprise-level applications
+Building fault-tolerant, multi-cloud DevOps architectures for AI systems
+Exploring next-gen AI/ML frameworks for predictive analytics
+Leveraging AI-powered developer tools to enhance productivity and code quality
+Implementing speech-to-text and text-to-speech technologies in AI applications
 
-- Advanced LangGraph techniques for complex multi-agent workflows
-- Implementing and optimizing LangChain for efficient LLM interactions
-- Advanced monitoring strategies with **LangSmith** and distributed tracing tools
-- Integrating AI solutions into enterprise-level applications
-- Building fault-tolerant, multi-cloud DevOps architectures for AI systems
-- Exploring next-gen AI/ML frameworks for predictive analytics
 
----
+💡 Looking to Collaborate On:
 
-### 💡 Looking to Collaborate On:
+AI-powered DevOps tools and infrastructure automation
+Open-source projects related to LangChain, LangGraph, or multi-agent AI systems
+Innovative AI-driven applications leveraging cutting-edge LLM technologies
+Speech recognition and synthesis projects for enhanced human-AI interaction
 
-- AI-powered DevOps tools and infrastructure automation
-- Open-source projects related to LangChain, LangGraph, or multi-agent AI systems
-- Innovative AI-driven applications leveraging cutting-edge LLM technologies
 
----
+📫 Connect With Me:
 
-### 📫 Connect With Me:
-
-- LinkedIn: [Hans Havlik](https://www.linkedin.com/in/hans-havlik-86178979/)
-- Email: hhavlik318@gmail.com
-- GitHub: [@Hams-Ollo](https://github.com/Hams-Ollo)
+LinkedIn: Hans Havlik
+Email: hhavlik318@gmail.com
+GitHub: @Hams-Ollo
 
 ---
 
@@ -92,3 +91,42 @@ I'm a **DevOps Engineer and AI Developer** passionate about building scalable, e
 #### Frameworks & Libraries:
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=sqlalchemy&logoColor=white)](https://docs.sql
+
+🌟 Highlighted Projects
+
+Project Echo: A multi-agent AI system leveraging LangGraph and LangChain
+
+Orchestrator Agent for managing specialized AI agents
+Integration with external services (Google Calendar, location services)
+Speech-to-text and text-to-speech capabilities
+
+
+AI-Powered DevOps Toolkit:
+
+Automated monitoring and alerting using LangSmith and Prometheus
+Intelligent log analysis with Elastic and custom NLP models
+
+
+Voice-Enabled AI Assistant:
+
+Utilizes Deepgram for speech recognition
+Text-to-speech synthesis with Eleven Labs
+Natural language understanding powered by LangChain and custom models
+
+
+AI-Enhanced Code Review Tool:
+
+Leverages LLMs for automated code review suggestions
+Integrates with GitHub Actions for seamless CI/CD pipeline integration
+
+
+
+
+📚 Continuous Learning
+I'm constantly exploring new technologies and methodologies in the AI and DevOps space. Some areas I'm currently diving into:
+
+Advanced prompt engineering techniques for more effective LLM interactions
+Ethical AI development and bias mitigation in language models
+Scalable architecture designs for large-scale AI systems
+Edge AI deployment for reduced latency in voice and NLP applications
+Quantum computing applications in AI and cryptography
