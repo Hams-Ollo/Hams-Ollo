@@ -12,13 +12,22 @@ I'm a **DevOps Engineer and AI Developer** passionate about building scalable, e
 - Enhancing scalability and automation in software delivery pipelines
 - Contributing to open-source projects and continuously learning new technologies
 
+#### Current Project: Project Echo
+- Designing and implementing a multi-agent system using LangGraph and LangChain
+- Creating an Orchestrator Agent to manage specialized AI agents
+- Developing modular architecture for easy integration of new agents and functionalities
+- Implementing robust state management across the multi-agent system
+- Integrating external services like Google Calendar and location-based services
+
 ---
 
 ### 🌱 Currently Learning:
 
+- Advanced LangGraph techniques for complex multi-agent workflows
+- Implementing and optimizing LangChain for efficient LLM interactions
 - Advanced monitoring strategies with **LangSmith** and distributed tracing tools
 - Integrating AI solutions into enterprise-level applications
-- Building fault-tolerant, multi-cloud DevOps architectures
+- Building fault-tolerant, multi-cloud DevOps architectures for AI systems
 - Exploring next-gen AI/ML frameworks for predictive analytics
 
 ---
@@ -26,8 +35,8 @@ I'm a **DevOps Engineer and AI Developer** passionate about building scalable, e
 ### 💡 Looking to Collaborate On:
 
 - AI-powered DevOps tools and infrastructure automation
-- Open-source projects related to AI Ops, cloud, and DevOps tooling
-- Innovative AI-driven applications leveraging cutting-edge technologies
+- Open-source projects related to LangChain, LangGraph, or multi-agent AI systems
+- Innovative AI-driven applications leveraging cutting-edge LLM technologies
 
 ---
 
@@ -35,7 +44,7 @@ I'm a **DevOps Engineer and AI Developer** passionate about building scalable, e
 
 - LinkedIn: [Hans Havlik](https://www.linkedin.com/in/hans-havlik-86178979/)
 - Email: hhavlik318@gmail.com
-- GitHub: @Hams-Ollo https://github.com/Hams-Ollo
+- GitHub: [@Hams-Ollo](https://github.com/Hams-Ollo)
 
 ---
 
@@ -50,6 +59,7 @@ I'm a **DevOps Engineer and AI Developer** passionate about building scalable, e
 
 #### AI/ML:
 [![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADNSURBVHgBjZLNDcIwDIVtqeDKjh2BDcIGZQPYoDABbFDYoEzABh03JmCDphIX5KRR2oL4pMiJ/fzsZwPLyVjjBo7QB6oYBHq4GXunAPMLjDTmI6yhV7jq8QbtvY+jwzpDJkpXWNXS7ZiLkqnwQRxQRW2l4fGbD1aJQbKVnqk/iL+JN9HefV1OQOPFuMHXTFwJk0Xk0zu2PIzeaF90Gfdwr1YYOUEWtO+cEA7KJlGL1wTd9X1NvBFWEYqQ5qJ0VCj7LkzmHW/hkVJw4guvXCVPRgBuM6pFHfGmUgAAAABJRU5ErkJggg==)](https://python.langchain.com/docs/get_started/introduction)
+[![LangGraph](https://img.shields.io/badge/-LangGraph-FF6F61?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADNSURBVHgBjZLNDcIwDIVtqeDKjh2BDcIGZQPYoDABbFDYoEzABh03JmCDphIX5KRR2oL4pMiJ/fzsZwPLyVjjBo7QB6oYBHq4GXunAPMLjDTmI6yhV7jq8QbtvY+jwzpDJkpXWNXS7ZiLkqnwQRxQRW2l4fGbD1aJQbKVnqk/iL+JN9HefV1OQOPFuMHXTFwJk0Xk0zu2PIzeaF90Gfdwr1YYOUEWtO+cEA7KJlGL1wTd9X1NvBFWEYqQ5qJ0VCj7LkzmHW/hkVJw4guvXCVPRgBuM6pFHfGmUgAAAABJRU5ErkJggg==)](https://github.com/langchain-ai/langgraph)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADCSURBVHgBjVKBEYMgDDQqAzACI7gBjOAGMkIdgQ1kBEuHaEZIA3UANvDu6KEvVt/du/OOJHmERIIQfOBp4AldOY4zfuMY8gE6M0UM5+ksuHjIHhiTTAbbZPfLbKL2yBY4YdjGEoGwIEbGGlNy/NNXC43EX/IHZxPKCdfPHG/RiXK21gNTUZW/5W/JCd+aCOjFvQBEkrh6fNNUTD/qqN/rGHy3PCGkXMpHbKVP8RkU2WlyZ0K4kWQ7RLaVSBKqW/NZFTWF+ALCOJxEcF3LpAAAAABJRU5ErkJggg==)](https://huggingface.co/docs)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/api_docs)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/docs/stable/index.html)
@@ -81,10 +91,4 @@ I'm a **DevOps Engineer and AI Developer** passionate about building scalable, e
 
 #### Frameworks & Libraries:
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=sqlalchemy&logoColor=white)](https://docs.sqlalchemy.org/)
-[![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)](https://pydantic-docs.helpmanual.io/)
-[![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)](https://spacy.io/api/doc)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/doc/)
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
-[![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)](https://docs.scipy.org/doc/)
-[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/documentation.html)
+[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=sqlalchemy&logoColor=white)](https://docs.sql
