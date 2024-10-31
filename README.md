@@ -10,18 +10,31 @@ I'm a DevOps Engineer and AI Developer passionate about building scalable, effic
 - Enhancing scalability and automation in software delivery pipelines
 - Contributing to open-source projects in the AI/ML space
 
-## 🎯 Featured Project: Project Echo
+## 🎯 Featured Projects
 
-A sophisticated multi-agent AI system leveraging cutting-edge technologies:
-
-- **Architecture**: Built with LangGraph and LangChain for robust agent orchestration
+### Multi-Agent AI Voice Assistant
 - **Core Features**:
-  - Orchestrator Agent managing specialized AI components
-  - Advanced state management across the multi-agent system
-  - Integration with external services (Google Calendar, location services)
-  - Speech-to-text and text-to-speech capabilities
+  - Advanced orchestration of specialized AI agents
+  - Robust state management across multi-agent systems 
+  - Speech-to-text and text-to-speech integration
   - Contextual memory enhancement using vector databases
+  - External service integrations for enhanced functionality
 - **Technologies**: LangGraph, LangChain, Eleven Labs, Twilio, VAPI, OpenAI, Pinecone
+
+### AI-Powered DevOps Toolkit
+- Automated monitoring and alerting using LangSmith and Prometheus
+- Intelligent log analysis with Elastic Stack and custom NLP models
+- CI/CD pipelines with integrated AI for code quality and security
+
+### Voice-Enabled AI Assistant
+- Advanced speech recognition with Deepgram
+- Text-to-speech synthesis using Eleven Labs
+- Natural language understanding powered by LangChain and custom models
+
+### AI-Enhanced Code Review Tool
+- Automated code review suggestions using LLMs
+- GitHub Actions integration for seamless CI/CD workflows
+- Automated code quality and security checks
 
 ## 🌱 Current Learning Focus
 
@@ -89,5 +102,6 @@ Currently exploring:
 - Scalable architecture for large-scale AI systems
 - Edge AI deployment for reduced latency
 - Quantum computing applications in AI
+- Advanced multi-agent system architectures
 
 Feel free to reach out if you'd like to collaborate or discuss any of these topics!
