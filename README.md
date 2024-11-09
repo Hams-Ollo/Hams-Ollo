@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Hans Havlik (@Hams-Ollo)
+# Hi I'm Hans (@Hams-Ollo)
 
 I'm a DevOps Engineer and AI Developer passionate about building scalable, efficient, and robust systems. My expertise lies in implementing LLM-based applications, orchestrating multi-agent systems, and creating high-quality, secure, and user-centric software solutions.
 
