@@ -1,89 +1,77 @@
-# Hans Havlik (@Hams-Ollo)
-> DevOps Engineer & AI Solutions Architect
+👋 Hi, I'm Hans Havlik (@Hams-Ollo)
+AI Solutions Architect | DevOps Engineer | Multi-Agent System Enthusiast
 
-## 🌟 Core Competencies
+Welcome to my GitHub! 🚀 Here, you'll find projects reflecting my passion for building cutting-edge AI systems, dynamic multi-agent architectures, and innovative automation workflows. My work bridges enterprise-level AI solutions with hands-on exploration to create impactful and scalable tools.
 
-### AI/ML Engineering
-- Large Language Model (LLM) implementations
-- Multi-agent system architecture
-- RAG systems & vector databases
-- AI solution design & deployment
-- Voice AI integration (speech-to-text/text-to-speech)
+🌟 About Me
+🌱 Background:
+I grew up off the grid on a rural farm in Pennsylvania, served in the military as a medic, and transitioned into healthcare IT before teaching myself programming during the pandemic. This journey taught me resilience, resourcefulness, and the importance of continuous learning.
 
-### DevOps & Infrastructure
-- Cloud architecture (AWS, Azure, GCP)
-- CI/CD pipeline optimization
-- Container orchestration (Kubernetes)
-- Infrastructure as Code
-- Monitoring & observability
+💡 Current Roles:
 
-### Software Development
-- Python ecosystem (LangChain, CrewAI, Streamlit)
-- API development & integration
-- Database design & optimization
-- Testing & quality assurance
-- Security implementation
+Enterprise Work:
+I am part of the AI/ML DevOps Research and Development Team with Capgemini, a global leader in consulting and technology services. Here, I focus on deploying and optimizing large-scale AI systems with cutting-edge tools and practices.
+Freelance Consulting:
+On the side, I apply the lessons from my enterprise work to freelance projects. This allows me to share knowledge, continuously expand my expertise, and explore new hands-on challenges in:
+Multi-Agent Systems for collaborative task automation
+Custom Retrieval-Augmented Generation (RAG) solutions
+LLM Optimization and Multimodal AI Applications
+Predictive Analytics and automation pipelines
+Content Curation, Ingestion Pipelines, and knowledge management workflows
+💻 Tech Expertise:
 
-## 🚀 Featured Projects
+Python (LangChain, FastAPI, Streamlit)
+Vector Databases (ChromaDB, Pinecone)
+Cloud Platforms (Azure, AWS)
+AI/ML Tools (LLaMA, Groq, OpenAI API)
+📚 Highlighted Projects
+🔧 ITSM-AI-Assistant: Gemi
+AI-powered Incident Management Assistant
+An advanced system for efficient incident resolution, integrating ServiceNow, Azure OpenAI, and LangSmith for monitoring and tracing.
 
-### Zephyr AI Assistant Suite
-- Enterprise-grade AI tools for Capgemini AI&A team
-- RAG-powered information retrieval
-- Knowledge graph integration
-- Azure AI Search implementation
+🧠 AI-Assisted Recommendations for incident resolution
+🔄 ServiceNow Integration for ticketing and SLA tracking
+📊 Advanced Monitoring with LangSmith and Redis
+🌐 Multi-Language Support with translation services
+🔥 Dynamic AI Assistant Base
+A production-ready framework for advanced AI assistants
+Built with LLaMA 3 70B, LangChain, and Streamlit, this project is a robust foundation for RAG capabilities and multimodal interactions.
 
-### Multi-Agent Project Framework
-- Production-ready multi-agent architecture
-- Advanced state management
-- Modular agent communication
-- Enterprise security features
-- Scalable infrastructure design
+📄 Document Management with semantic search and vectorization
+💬 Context-Aware Chat using advanced memory management
+🎯 Unified Configuration for seamless customization
+🪶 Hams_Ollo & AI
+A voice-powered, multi-agent AI assistant
+Designed for productivity, podcasting, and dynamic collaboration using CrewAI and Groq.
 
-### Project Oracle
-- Advanced knowledge management system
-- Multi-format document processing
-- Semantic search capabilities
-- Automated knowledge organization
-- Interactive visualizations
+🤖 Specialized Agents for scheduling, content creation, and task automation
+💡 Dynamic Task Delegation based on expertise
+📋 User Feedback Integration and advanced context handling
+📘 Project Oracle
+Advanced Knowledge Management System
+A sophisticated solution for intelligent document processing and semantic search.
 
-## 💡 Technical Expertise
+🔍 Semantic and Faceted Search across multi-format documents
+📚 Knowledge Organization with topic modeling and clustering
+🌐 Streamlit-Based Interface for dynamic exploration
+🌟 Project Zephyr
+AI-powered tools for enhanced information retrieval
+A suite of assistants leveraging RAG workflows, Neo4j knowledge graphs, and Azure AI Search.
 
-### AI/ML Technologies
-- LangChain/LangGraph
-- Azure OpenAI/Groq
-- Vector Databases (Pinecone, ChromaDB)
-- Knowledge Graphs (Neo4j)
-- LLM Optimization
+🛝 Deck Assistant: Quick slide retrieval for presentations
+👤 Profile Finder: Searchable skill profiles using knowledge graphs
+📣 Biweekly Chat: Context-aware transcript exploration
+🛠️ Skills & Technologies
+AI & Machine Learning: LangChain, LLaMA, OpenAI, RAG, LLM Optimization
+Multi-Agent Systems: CrewAI, LangSmith, tool-calling architectures
+DevOps & Cloud: Docker, Kubernetes, Terraform, Azure DevOps
+Full-Stack Development: Python (Flask, FastAPI), Streamlit, JavaScript
+Knowledge Management: Vector Databases (ChromaDB, Pinecone), Semantic Search
+🤝 Let’s Collaborate!
+I’m eager to connect with individuals and organizations interested in AI innovation, automation, and scalable technology. Whether it’s multi-agent systems, RAG workflows, or full-stack development, let’s collaborate to create transformative solutions.
 
-### Cloud & DevOps
-- Kubernetes/Docker
-- Azure DevOps
-- Terraform/Pulumi
-- Monitoring (Prometheus, Grafana)
-- CI/CD Pipelines
-
-### Development
-- Python/JavaScript
-- REST APIs
-- PostgreSQL/MongoDB
-- Redis/Elasticsearch
-- Streamlit/FastAPI
-
-## 📚 Recent Focus
-- Advanced multi-agent architectures
-- LLM optimization & fine-tuning
-- Edge AI deployment
-- Quantum computing applications
-- Ethical AI development
-
-## 🤝 Open for Collaboration
-- AI-powered DevOps automation
-- Multi-agent system development
-- Enterprise AI solutions
-- Voice AI integration
-- Knowledge management systems
-
-## 📫 Connect
-- LinkedIn: [Hans Havlik](https://www.linkedin.com/in/hanshavlik)
-- Email: hhavlik318@gmail.com
-- GitHub: [@Hams-Ollo](https://github.com/Hams-Ollo)
+🌐 Website: Hans Havlik
+📫 Email: hhavlik318@gmail.com
+💼 LinkedIn: Hans Havlik
+🐦 Twitter: @hams_ollo
+Feel free to explore my repositories and reach out.
