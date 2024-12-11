@@ -31,7 +31,7 @@ Welcome to my GitHub! 🚀 Here, you'll find projects reflecting my passion for 
 
 ## 📚 Highlighted Projects  
 
-### 🔧 [ITSM-AI-Assistant: Gemi](https://github.com/Hams-Ollo/ITSM-AI-Assistant)  
+### 🔧 [ITSM-AI-Assistant](https://github.com/Hams-Ollo/ITSM-AI-Assistant)  
 **AI-powered Incident Management Assistant**  
 An advanced system for efficient incident resolution, integrating ServiceNow, Azure OpenAI, and LangSmith for monitoring and tracing.  
 - 🧠 **AI-Assisted Recommendations** for incident resolution  
