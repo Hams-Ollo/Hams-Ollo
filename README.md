@@ -59,14 +59,6 @@ A production-ready **RAG pipeline** for document-driven AI applications.
 
 ---
 
-### 🛠 **[AI-Powered Multi-Agent System](#)**  
-An intelligent automation system using **CrewAI** for dynamic task orchestration.  
-- 🤖 Specialized agents for **scheduling**, **content creation**, and **workflow automation**.  
-- 🔊 Integrated **11Labs and Deepgram** for voice-driven AI workflows.  
-- 📋 User feedback loops for adaptive task optimization.  
-
----
-
 ### 📊 **[Project Oracle – Knowledge Management with AI](#)**  
 A modular AI assistant combining **web scraping** with a custom knowledge base for structured data retrieval.  
 - 📝 Query routing and workflow automation with **LangChain** and **OpenAI**.  
