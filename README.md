@@ -61,6 +61,17 @@ An intelligent knowledge management and onboarding assistant for streamlining kn
 
 ---
 
+### 📊 **[ARK AI – Academic Research Knowledgebase](https://github.com/Hams-Ollo/ark-ai)**  
+**Advanced Research Knowledgebase**  
+A robust research assistant and intelligent semantic knowledge base repository for academic studies, inspired by the Bhaktivedanta Institute.
+
+- 🤖 **AI-Powered Research Assistant** with advanced document processing
+- 🔍 **Hybrid Search Capabilities** (semantic + keyword)
+- 📝 **Citation System** with page-level linking and visualization
+- 📚 **Academic-Focused Research Tools** for comprehensive insights
+
+---
+
 ### 🔧 **[Project Minion Demo](https://github.com/Hams-Ollo/project-minion-demo)**  
 **Multi-Agent Chatbot Framework**  
 A demonstration of tool-calling multi-agent systems built on LangGraph.
