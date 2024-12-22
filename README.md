@@ -8,7 +8,7 @@ Welcome to my GitHub! 🚀 I specialize in developing **scalable AI systems**, *
 ## 🌟 **About Me**  
 
 - 🌱 **My Journey**:  
-   From growing up on a **self-sustained farm** in Pennsylvania to serving as a **U.S. Army Medic** and transitioning into **healthcare IT**, I taught myself **programming** during the pandemic. My journey instilled resilience, adaptability, and a drive for continuous learning.  
+   From growing up on an **offgrid self-sustained farm** in Pennsylvania to serving as a **U.S. Army Medic** and transitioning into **healthcare IT**, I taught myself **programming** during the pandemic. My journey instilled resilience, adaptability, and a drive for continuous learning.  
 
 - 💼 **What I Do**:  
    - **AI/ML DevOps**: Designing and deploying **AI-powered solutions** for enterprise-scale systems at **Capgemini**.  
