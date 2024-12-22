@@ -31,38 +31,53 @@ Welcome to my GitHub! 🚀 I specialize in developing **scalable AI systems**, *
 
 ## 📚 **Highlighted Projects**  
 
-### 🔧 **[ITSM-AI-Assistant: Gemi - Incident Management Assistant](#)**  
-**Version**: 1.1.3 | **Last Updated**: 2024-12-09  
+### 🏛️ **[Project S.O.C.R.A.T.E.S.](https://github.com/Hams-Ollo/project-socrates)**  
+**Sophisticated Orchestration of Collaborative Resources and AI Task Execution System**  
+A multi-agent system framework for **collaborative task management**, **resource orchestration**, and **workflow automation**. Built with Groq LLaMA 3, LangChain, and ChromaDB.
 
-The Gemi - Incident Management Assistant is an advanced AI-powered system designed to streamline incident resolution and SLA monitoring.  
-- 🧠 **AI-assisted incident resolution** with dynamic tool selection.  
-- 🔄 **ServiceNow integration** for ticket management, SLA tracking, and group assignments.  
-- 📊 Advanced **LangSmith monitoring** for AI interaction tracing.  
-- 💭 **Intelligent memory management** with Redis for enhanced conversations.  
-- 🌐 **Multi-language support** with automatic translation.  
+- 🔄 **Dynamic Task Delegation**
+- 💬 **Context-Aware Conversations**
+- 🔍 **Semantic Search with Multi-Agent Collaboration**
 
 ---
 
-### 📘 **[ARK AI – Academic Research Knowledgebase](#)**  
-A semantic research repository designed for **consciousness studies**, leveraging advanced document processing and retrieval.  
-- **Technologies**: Groq LLaMA 3, LangChain, ChromaDB, PostgreSQL/pgvector  
-- 🔍 **Hybrid search** (semantic + keyword) with page-level citation tracking.  
-- 📝 Advanced **document processing** pipeline with citation preservation.  
+### 🌐 **[Project Y.G.G.D.R.A.S.I.L.](https://github.com/Hams-Ollo/project-yggdrasil)**  
+**Your Generalized Graph-Driven Repository for AI and Scalable Intelligent Learning**  
+A personal knowledge management system integrating multi-agent frameworks and graph-based knowledge visualization.
+
+- 🧠 **Graph-Driven Knowledge Mapping**
+- 🔍 **Advanced Semantic Search**
+- 📂 **Organized Document Storage and Retrieval**
 
 ---
 
-### 🧠 **[Dynamic AI Assistant Framework](#)**  
-A production-ready **RAG pipeline** for document-driven AI applications.  
-- 🔧 Built with **Groq LLaMA 3**, **LangChain**, and **ChromaDB**.  
-- 🔍 **Semantic search** with advanced document vectorization.  
-- 💬 Multi-turn **context-aware interactions** for enterprise use cases.  
+### 📘 **[Project O.R.A.C.L.E.](https://github.com/Hams-Ollo/project-oracle)**  
+**Onboarding Repository for AI-Curated Learning and Enrichment**  
+An intelligent knowledge management and onboarding assistant for streamlining knowledge transfer and creating customized learning paths.
+
+- 📖 **Dynamic Knowledge Repository**
+- 🤝 **Multi-Agent Collaboration for Teams**
+- 🛠️ **Customizable Learning Paths**
 
 ---
 
-### 📊 **[Project Oracle – Knowledge Management with AI](#)**  
-A modular AI assistant combining **web scraping** with a custom knowledge base for structured data retrieval.  
-- 📝 Query routing and workflow automation with **LangChain** and **OpenAI**.  
-- 🌐 Intelligent search and result exploration for structured knowledge management.  
+### 🔧 **[Project Minion Demo](https://github.com/Hams-Ollo/project-minion-demo)**  
+**Multi-Agent Chatbot Framework**  
+A demonstration of tool-calling multi-agent systems built on LangGraph.
+
+- 🤖 **Specialized Agents for Diverse Tasks**
+- ⚙️ **Dynamic Workflow Management**
+- 💡 **Scalable and Extensible Framework**
+
+---
+
+### 📊 **[Project S.A.T.O.R.I.](https://github.com/Hams-Ollo/project-satori)**  
+**System for Agentic Tasks, Orchestration, and Real-Time Intelligence**  
+A dynamic multi-agent system for **real-time collaboration** and **AI-driven task execution**.
+
+- ⚡ **Real-Time Task Execution**
+- 🛠️ **Modular and Extensible Design**
+- 🧠 **Agentic Decision-Making Framework**
 
 ---
 
