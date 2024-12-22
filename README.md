@@ -1,5 +1,5 @@
 # 👋 **Hi, I'm Hans Havlik (@Hams-Ollo)**  
-**AI Solutions Architect | DevOps Engineer | Multi-Agent System Specialist**
+**AI Solutions Architect | DevOps Full Stack Developer | Multi-Agent AI Systems Engineer | Observability and Data Analytics**
 
 Welcome to my GitHub! 🚀 I specialize in developing **scalable AI systems**, **multi-agent architectures**, and **intelligent knowledge-driven solutions**. My work bridges enterprise-grade generative AI applications with hands-on exploration to deliver impactful, future-proof technologies.
 
