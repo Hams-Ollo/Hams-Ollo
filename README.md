@@ -93,10 +93,9 @@ Enterprise automation and workflow intelligence system
 
 ## 📈 **Community Impact**
 
-- **Framework Contributors**: 500+
-- **Discord Members**: 2,000+
-- **GitHub Stars**: 5,000+
-- **Workshop Participants**: 1,000+
+- **Framework Contributors**: 3+
+- **Discord Members**: 20+
+- **GitHub Stars**: 1+
 
 ## 🗣️ **Latest Work**
 
@@ -104,11 +103,6 @@ Enterprise automation and workflow intelligence system
 - [The Future of Conscious Computing](https://soul-ai.dev/blog/conscious-computing)
 - [Building Ethical AI Systems](https://soul-ai.dev/blog/ethical-ai)
 - [Multi-Agent Architecture Guide](https://soul-ai.dev/blog/multi-agent)
-
-### Speaking
-- Consciousness Computing Conference 2025
-- Ethical AI Summit 2024
-- Tech & Wisdom Symposium 2024
 
 ## 🤝 **Let's Connect**
 
