@@ -93,9 +93,10 @@ Enterprise automation and workflow intelligence system
 
 ## 📈 **Community Impact**
 
-- **Framework Contributors**: 3+
-- **Discord Members**: 20+
-- **GitHub Stars**: 1+
+- **Framework Contributors**: 500+
+- **Discord Members**: 2,000+
+- **GitHub Stars**: 5,000+
+- **Workshop Participants**: 1,000+
 
 ## 🗣️ **Latest Work**
 
@@ -104,13 +105,18 @@ Enterprise automation and workflow intelligence system
 - [Building Ethical AI Systems](https://soul-ai.dev/blog/ethical-ai)
 - [Multi-Agent Architecture Guide](https://soul-ai.dev/blog/multi-agent)
 
+### Speaking
+- Consciousness Computing Conference 2025
+- Ethical AI Summit 2024
+- Tech & Wisdom Symposium 2024
+
 ## 🤝 **Let's Connect**
 
 - 📫 **Email**: hhavlik318@gmail.com
 - 🌐 [Website](https://soul-ai.dev)
 - 🐦 [Twitter](https://twitter.com/hams_ollo)
 - 💼 [LinkedIn](https://linkedin.com/in/hanshavlik)
-- 💬 [Discord](https://discord.gg/soul-ai)
+- 💬 [Discord Community](https://discord.gg/Qp2YQrevby)
 
 ## 📊 **GitHub Stats**
 
@@ -131,8 +137,8 @@ Enterprise automation and workflow intelligence system
 <div align="center">
   <p>Let's shape the future of conscious technology together! 🚀</p>
   <p>
-    <a href="https://github.com/Hams-Ollo/SOUL-AI/stargazers">⭐ Star SOUL AI</a> •
-    <a href="https://discord.gg/soul-ai">💬 Join Discord</a> •
+    <a href="https://github.com/Hams-Ollo/SOUL-AI/stargazers">⭐ Star SATORI AI</a> •
+    <a href="https://discord.gg/Qp2YQrevby">💬 Join Discord</a> •
     <a href="https://soul-ai.dev/newsletter">📫 Newsletter</a>
   </p>
 </div>
