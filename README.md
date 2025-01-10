@@ -39,36 +39,50 @@
 
 ## 📚 **Featured Projects**
 
-### 🏛️ **[SOUL AI Framework](https://github.com/Hams-Ollo/SOUL-AI)**
-Revolutionary framework integrating consciousness awareness into AI systems
-- 🧠 Consciousness-integrated architecture
-- 🤖 Multi-agent systems
-- 🌟 Ethical AI patterns
+### 🧠 **[SATORI AI Framework](https://github.com/Hams-Ollo/satori-ai)**
+**System for Advanced Task Orchestration and Real-time Intelligence**
+A comprehensive framework for consciousness-integrated AI development
+- 🌟 User Bio Schema System for consciousness-aware profiles
+- 🤖 Multi-agent orchestration and workflow automation
+- 🎯 Dynamic task delegation and execution
+- 💫 Ethical AI patterns and guidelines
 - 🌐 Community-driven development
 
-### 🌐 **[Project S.O.C.R.A.T.E.S.](https://github.com/Hams-Ollo/project-socrates)**
-**Sophisticated Orchestration of Collaborative Resources and AI Task Execution System**
-- 🔄 Dynamic Task Delegation
-- 💬 Context-Aware Conversations
-- 🔍 Multi-Agent Collaboration
+### 📚 **[ARK AI](https://github.com/Hams-Ollo/ark-ai)**
+**Advanced Research Knowledgebase**
+Enterprise-grade knowledge management and research platform
+- 🧠 Graph-driven knowledge mapping (from YGGDRASIL)
+- 🔍 Advanced semantic search and RAG pipelines
+- 📊 Custom knowledge base architecture
+- 🤝 Multi-agent collaboration (from SOCRATES)
+- 📚 Academic research tools and citation system
 
-### 📘 **[Project Y.G.G.D.R.A.S.I.L.](https://github.com/Hams-Ollo/project-yggdrasil)**
-**Your Generalized Graph-Driven Repository for AI and Scalable Intelligent Learning**
-- 🧠 Graph-Driven Knowledge Mapping
-- 🔍 Advanced Semantic Search
-- 📂 Organized Knowledge Management
+### 🤖 **[Chat_3P0](https://github.com/Hams-Ollo/chat-3p0)**
+**Third-Person Omniscient AI Assistant**
+Advanced conversational AI with consciousness integration
+- 💡 Context-aware dialogue management
+- 🎭 Personality adaptation system
+- 🧪 Experimental consciousness features
+- 🔄 Real-time learning capabilities
+- 🛠️ Custom plugin architecture
 
-### 📊 **[ARK AI](https://github.com/Hams-Ollo/ark-ai)**
-Academic Research Knowledgebase inspired by the Bhaktivedanta Institute
-- 🤖 AI-Powered Research Assistant
-- 🔍 Hybrid Search Capabilities
-- 📚 Academic Research Tools
+### ⚡ **[Genesis Protocol](https://github.com/Hams-Ollo/genesis-protocol)**
+**Developer Kit for Consciousness-Integrated AI**
+Framework for building conscious AI applications
+- 🧬 Core consciousness integration patterns
+- 📘 Implementation guidelines and best practices
+- 🔌 Modular plugin system
+- 🧪 Testing and validation tools
+- 📚 Comprehensive documentation
 
-### 🔮 **[Project S.A.T.O.R.I.](https://github.com/Hams-Ollo/project-satori)**
-**System for Agentic Tasks, Orchestration, and Real-Time Intelligence**
-- ⚡ Real-Time Task Execution
-- 🛠️ Modular Architecture
-- 🧠 Consciousness-Aware Agents
+### 🦅 **[HAWK AI](https://github.com/Hams-Ollo/hawk-ai)**
+**High-level Autonomous Knowledge Worker AI**
+Enterprise automation and workflow intelligence system
+- 🎯 Intelligent task automation
+- 📊 Performance analytics
+- 🔄 Workflow optimization
+- 🤖 Agent collaboration system
+- 🧠 Decision support engine
 
 ## 🎯 **Current Focus**
 
