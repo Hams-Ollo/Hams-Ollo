@@ -1,7 +1,7 @@
 # 🪶 **Hans Havlik (@hams_ollo)**  
 **AI Solutions Architect | 🏹 Military & Healthcare Veteran | 🧘‍♂️ Disciplined Yogi & Martial Artist | 💛 Bhakti Yoga Practitioner**
 
-> *"The highest perfection of human life is to remember the Personality of Godhead at the time of death."*  
+> **"Simply by chanting the Holy Name of Kṛṣṇa, one can attain the highest spiritual perfection. Let us pray for His mercy and remain sincere in our efforts.”**  
 > <small>— Śrīla Prabhupāda</small>
 
 ---
@@ -85,7 +85,7 @@
 
 ---
 
-> **"Simply by chanting the Holy Name of Kṛṣṇa, one can attain the highest spiritual perfection. Let us pray for His mercy and remain sincere in our efforts.”**  
+> *"The highest perfection of human life is to remember the Personality of Godhead at the time of death."*  
 > <small>— Śrīla Prabhupāda</small>
 
 🪶 *- @hams_ollo*  
