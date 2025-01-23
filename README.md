@@ -88,4 +88,4 @@
 > **"Simply by chanting the Holy Name of Kṛṣṇa, one can attain the highest spiritual perfection. Let us pray for His mercy and remain sincere in our efforts.”**  
 > <small>— Śrīla Prabhupāda</small>
 
-🪶 *(Signature Hawk Feather)*  
+🪶 *@hams_ollo*  
