@@ -6,7 +6,8 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/Hams-Ollo?style=social)](https://github.com/Hams-Ollo)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hams_ollo?style=social)](https://twitter.com/hams_ollo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/hanshavlik](https://www.linkedin.com/in/hans-havlik-86178979/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hans-havlik-86178979/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/zensolutionsai/)
   
 </div>
 
@@ -98,9 +99,9 @@ I'm always open to collaborating on projects that align with creating thoughtful
 ## 📫 Connect
 
 - **Email**: [hhavlik318@gmail.com](mailto:hhavlik318@gmail.com)
-- **LinkedIn**: [linkedin.com/in/hanshavlik](https://linkedin.com/in/hanshavlik)
+- **LinkedIn**: [linkedin.com/in/hans-havlik-86178979](https://www.linkedin.com/in/hans-havlik-86178979/)
 - **Twitter**: [@hams_ollo](https://twitter.com/hams_ollo)
-- **Website**: [soul-ai.dev](https://soul-ai.dev)
+- **Instagram**: [@zensolutionsai](https://www.instagram.com/zensolutionsai/)
 
 ---
 
