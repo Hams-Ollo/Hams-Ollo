@@ -6,7 +6,7 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/Hams-Ollo?style=social)](https://github.com/Hams-Ollo)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hams_ollo?style=social)](https://twitter.com/hams_ollo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/hanshavlik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/hanshavlik](https://www.linkedin.com/in/hans-havlik-86178979/)
   
 </div>
 
