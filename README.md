@@ -1,91 +1,114 @@
-# 🪶 **Hans Havlik (@hams_ollo)**  
-**AI Solutions Architect | 🏹 Military & Healthcare Veteran | 🧘‍♂️ Disciplined Yogi & Martial Artist | 💛 Bhakti Yoga Practitioner**
+# 🪶 **Hans Havlik | @Hams-Ollo**
 
-> **"Simply by chanting the Holy Name of Kṛṣṇa, one can attain the highest spiritual perfection. Let us pray for His mercy and remain sincere in our efforts.”**  
-> <small>— Śrīla Prabhupāda</small>
+> **AI Solutions Architect | Multi-Agent Systems Developer | Knowledge Graph Specialist**
 
----
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/Hams-Ollo?style=social)](https://github.com/Hams-Ollo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hams_ollo?style=social)](https://twitter.com/hams_ollo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/hanshavlik)
+[![Website](https://img.shields.io/badge/Website-soul--ai.dev-green)](https://soul-ai.dev)
+  
+</div>
 
-## **🦾 Overview & Core Values**
+## 🦾 Mission & Approach
 
-- **⚔️ Military & Family Leader**: Former U.S. Army Sergeant (Medic/Cav Scout). Skilled in crisis management, tactical operations, and team leadership. Proud parent, deeply committed to family and community.  
-- **🏥 Healthcare Veteran**: Over a decade in acute-care environments—ambulances, ERs, VA hospitals—building resilience, empathy, and calm-under-fire composure.  
-- **🤖 AI Solutions Architect**: Passionate about multi-agent systems, LLM integrations, and full-stack development, fusing cutting-edge tech with ethical frameworks.  
-- **🧘‍♂️ Disciplined Yogi & Martial Artist**: Years of Zen meditation, pranayama, and archery, honing intense focus, mental clarity, and resilience in all endeavors.
+Bridging technical excellence with human-centered design to create AI systems that augment human capabilities rather than replace them. My work sits at the intersection of cutting-edge technology and practical implementation, guided by disciplined focus and ethical frameworks.
 
----
+> *"Technology should enhance human intelligence, not replace it."*
 
-## **🛠️ Hard Skills**
+## 🛠️ Technical Expertise
 
-- **AI & Machine Learning**  
-  - Multi-Agent Systems, LangChain, ChatGPT, HuggingFace  
-  - Neural Network design, Prompt Engineering, Retrieval-Augmented Generation (RAG)  
-- **Software Development**  
-  - **Python** (FastAPI, Pydantic), **TypeScript/JavaScript**  
-  - **React**, **Streamlit**, **TailwindCSS**  
-  - Backend & API Development, Databases (PostgreSQL, ChromaDB)  
-- **DevOps & Cloud**  
-  - **CI/CD** workflows, Docker, GitHub Actions  
-  - AWS/Azure/GCP proficiency  
-  - APM & Observability (Splunk, Elastic, Dynatrace, AppDynamics)  
-- **Leadership & Coordination**  
-  - Agile & Kanban project management  
-  - Team-building & delegation under pressure  
-  - Crisis response & tactical decision-making  
+- **🎭 Multi-Agent Systems**: LangGraph, LangChain, agent orchestration, specialized agent design
+- **🧩 Knowledge Graph Development**: Custom knowledge structures, RAG systems, vector databases
+- **🔌 Tool Integration & Automation**: API connectivity, workflow automation, system integration
+- **💬 Advanced Prompt Engineering**: Testing methodologies, production-grade prompt architecture
+- **⚙️ Full-Stack Development**: Python (FastAPI), TypeScript/JavaScript, React, TailwindCSS
+- **☁️ DevOps & Cloud**: CI/CD, Docker, AWS/Azure/GCP, observability platforms
 
----
+## 🚀 Featured Projects
 
-## **💞 Soft Skills**
+### [The Sandbox](https://github.com/Hams-Ollo/the_sandbox)
 
-- **🧊 Calm Under Pressure**: Veteran of intense tactical and medical scenarios, maintaining composure in split-second decisions.  
-- **💬 Empathetic Communication**: Patient care background fosters active listening, conflict resolution, and supportive teamwork.  
-- **🔭 Adaptability & Curiosity**: Continuously learning new technologies, bridging modern AI with ancient wisdom traditions.  
-- **🎯 Disciplined Focus**: Daily yoga, pranayama, and meditation for unwavering clarity and self-mastery.
+The Sandbox is an open-source AI innovation environment designed for experimenting with and building advanced AI systems. This project provides a structured educational playground for:
 
----
+- 🏗️ Building custom knowledge graph-driven applications
+- 🧪 Experimenting with tool-calling mechanisms
+- 🤖 Creating multi-agent AI frameworks
+- ✨ Practicing advanced prompt engineering
 
-## **💻 Professional Experience**
+Designed to be accessible for both beginners and advanced developers, The Sandbox includes comprehensive resources, example implementations, and a growing community of practice.
 
-- **Capgemini (Senior Software Developer & AI Solutions Architect)**  
-  - 🏗️ Designing & deploying enterprise-scale AI applications  
-  - 🌐 Leading cross-functional teams to deliver secure, high-availability systems  
+### [ZenBot](https://github.com/Hams-Ollo/ZenBot)
 
-- **Freelance Consulting (Valhalla AI Solutions)**  
-  - 🏰 Specializing in AI & ML strategy, multi-agent frameworks  
-  - 💡 Empowering businesses to harness next-gen technologies  
+An advanced AI orchestration system for knowledge management, automation, and strategic decision-making. Features include:
 
-- **Healthcare**  
-  - 🇺🇸 U.S. Army Medic & Civilian Paramedic: Field triage, emergency response, disaster relief  
-  - 🏥 ER & VA Hospital Experience: Managed critical patient care through the pandemic  
+- 📚 Trinity Knowledge Management System for structured information organization
+- 🤖 Multi-agent architecture for specialized task handling
+- 🔄 Dynamic workflow automation with context awareness
+- 🔍 Intelligent search and knowledge synthesis
 
----
+### [Batman & Alfred Framework](https://github.com/Hams-Ollo/batman-alfred)
 
-## **☀️ Spiritual & Personal Dimensions**
+A practical implementation guide and reference architecture for building personalized AI assistants:
 
-- **🌸 Gaudiya Vaishnava Devotion**: Following Lord Chaitanya’s bhakti path via Śrīla Prabhupāda’s teachings.  
-- **🏹 Martial Arts & Zen Archery**: Founder of Dhananjaya Dojo, integrating warrior discipline with spiritual introspection.  
-- **🎉 Community Service**: Supporting Alachua Holy Name Festival with devotion and volunteerism.  
+- 🦇 Batman profile structure for human operator definition
+- 🤵 Alfred agent specialization patterns
+- 🧩 Inter-agent communication protocols
+- 🔧 Tool integration examples
 
----
+## 🌱 Community & Learning
 
-## **Why Work With Me?**
+I believe in building technology within a community of practice that values both technical excellence and human-centered design. My repositories are designed to be educational environments where:
 
-1. **🦅 Battle-Tested Composure**: Decisive and cool under extreme conditions, drawn from military and ER experiences.  
-2. **🤝 Ethical & Conscious AI**: Guided by moral and spiritual frameworks, aiming to create tech that serves humanity.  
-3. **🌐 Holistic Perspective**: A synergy of martial discipline, yoga, and advanced coding for deep problem-solving.  
-4. **📈 Proven Delivery**: Successful deployments at enterprise scale, plus recognized freelance results.
+- 📖 Knowledge is shared openly and generously
+- 🧑‍🏫 Practitioners of all skill levels are welcomed
+- 🔬 Experimentation is encouraged and supported
+- ⚖️ Ethical considerations are integrated into technical decisions
+- 🛠️ Practical application takes precedence over theoretical abstractions
 
----
+Join me in exploring how AI can augment human capabilities and enhance our collective potential through thoughtful, disciplined implementation.
 
-## **🌐 Contact & Collaboration**
+## 💼 Professional Background
 
-- **Email**: [hhavlik318@gmail.com](mailto:hhavlik318@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/hanshavlik](https://linkedin.com/in/hanshavlik)  
+My approach to technology is shaped by diverse experiences:
+
+- **🦅 Military Service**: Former U.S. Army Combat Medic, bringing discipline, leadership, and calm-under-pressure decision making
+- **🏥 Healthcare Experience**: Over a decade in emergency and acute care environments, developing empathy and crisis response
+- **💻 Enterprise Tech**: Building and deploying AI solutions at scale for global organizations
+- **🧘‍♂️ Disciplined Practice**: Daily meditation, martial arts, and focused training informing system design principles
+
+This background gives me a unique perspective on building technology that serves human needs while maintaining robustness and reliability.
+
+## 📈 Current Focus
+
+- Advancing multi-agent systems with improved coordination and specialization
+- Developing enhanced knowledge graph architectures for personal and enterprise use
+- Building human-AI collaboration frameworks that respect agency and enhance capabilities
+- Growing learning communities around mindful technology implementation
+
+## 🤝 Collaboration
+
+I'm always open to collaborating on projects that align with creating thoughtful, robust AI systems that augment human capabilities. Feel free to:
+
+- ⭐ Star and fork my repositories
+- 🐛 Submit issues and pull requests
+- 💬 Reach out for collaboration opportunities
+- 🌱 Join the growing community of practice
+
+## 📫 Connect
+
+- **Email**: [hhavlik318@gmail.com](mailto:hhavlik318@gmail.com)
+- **LinkedIn**: [linkedin.com/in/hanshavlik](https://linkedin.com/in/hanshavlik)
+- **Twitter**: [@hams_ollo](https://twitter.com/hams_ollo)
 - **Website**: [soul-ai.dev](https://soul-ai.dev)
 
 ---
 
-> *"The highest perfection of human life is to remember the Personality of Godhead at the time of death."*  
-> <small>— Śrīla Prabhupāda</small>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hams-Ollo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
-🪶 *- @hams_ollo*  
+<div align="right">
+  <sub>🪶 @hams_ollo</sub>
+</div>
