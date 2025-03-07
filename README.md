@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Hams-Ollo?style=social)](https://github.com/Hams-Ollo)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hams_ollo?style=social)](https://twitter.com/hams_ollo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/hanshavlik)
-[![Website](https://img.shields.io/badge/Website-soul--ai.dev-green)](https://soul-ai.dev)
+[![Website](https://img.shields.io/badge/Website-soul--ai.dev-green)](in-progress)
   
 </div>
 
