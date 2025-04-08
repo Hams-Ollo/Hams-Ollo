@@ -1,6 +1,6 @@
 # 🪶 **Hans Havlik | @Hams-Ollo**
 
-> **AI Solutions Architect | Multi-Agent Systems Developer | Knowledge Graph Specialist**
+> **AI/ML DevOps Engineer | Backend Python Developer | Multi-Agent Systems Specialist**
 
 <div align="center">
   
@@ -19,12 +19,12 @@ Bridging technical excellence with human-centered design to create AI systems th
 
 ## 🛠️ Technical Expertise
 
-- **🎭 Multi-Agent Systems**: LangGraph, LangChain, agent orchestration, specialized agent design
-- **🧩 Knowledge Graph Development**: Custom knowledge structures, RAG systems, vector databases
-- **🔌 Tool Integration & Automation**: API connectivity, workflow automation, system integration
-- **💬 Advanced Prompt Engineering**: Testing methodologies, production-grade prompt architecture
-- **⚙️ Full-Stack Development**: Python (FastAPI), TypeScript/JavaScript, React, TailwindCSS
-- **☁️ DevOps & Cloud**: CI/CD, Docker, AWS/Azure/GCP, observability platforms
+- **🎭 Multi-Agent Systems**: LangGraph, LangChain, CrewAI, agent orchestration, Model Context Protocol (MCP)
+- **🧩 Data Storage & Retrieval**: ChromaDB, Redis, PostgreSQL, vector databases, RAG systems
+- **🔌 Backend Development**: Python (FastAPI), API design, system integration, microservices
+- **☁️ Cloud & DevOps**: Azure, GCP, CI/CD pipelines, containerization with Docker
+- **📊 Monitoring & Observability**: LangSmith, Splunk, AppDynamics, Grafana, Prometheus
+- **⚙️ Enterprise AI/ML**: Production-grade generative AI systems, scalable automation solutions
 
 ## 🚀 Featured Projects
 
@@ -73,19 +73,20 @@ Join me in exploring how AI can augment human capabilities and enhance our colle
 
 My approach to technology is shaped by diverse experiences:
 
+- **💻 Enterprise Tech**: Working at Capgemini on the AI DevOps team, building and deploying enterprise-scale AI/ML and generative AI automation solutions
 - **🦅 Military Service**: Former U.S. Army Combat Medic, bringing discipline, leadership, and calm-under-pressure decision making
 - **🏥 Healthcare Experience**: Over a decade in emergency and acute care environments, developing empathy and crisis response
-- **💻 Enterprise Tech**: Building and deploying AI solutions at scale for global organizations
 - **🧘‍♂️ Disciplined Practice**: Daily meditation, martial arts, and focused training informing system design principles
 
 This background gives me a unique perspective on building technology that serves human needs while maintaining robustness and reliability.
 
 ## 📈 Current Focus
 
-- Advancing multi-agent systems with improved coordination and specialization
-- Developing enhanced knowledge graph architectures for personal and enterprise use
-- Building human-AI collaboration frameworks that respect agency and enhance capabilities
-- Growing learning communities around mindful technology implementation
+- Enterprise AI/ML implementation with LangChain, LangGraph, and CrewAI
+- Advanced monitoring and observability for AI systems with LangSmith
+- Model Context Protocol (MCP) integration in LLM applications
+- Vector database optimization for production RAG systems
+- Developing secure, scalable multi-agent architectures
 
 ## 🤝 Collaboration
 
