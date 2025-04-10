@@ -1,4 +1,4 @@
-# 🪶 **Hans Havlik | @Hams-Ollo**
+# 🪶 **Hans Havlik | @hams_ollo**
 
 > **AI/ML DevOps Engineer | Backend Python Developer | Multi-Agent Systems Specialist**
 
