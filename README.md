@@ -74,7 +74,7 @@ Join me in exploring how AI can augment human capabilities and enhance our colle
 My approach to technology is shaped by diverse experiences:
 
 - **💻 Enterprise Tech**: Working at Capgemini on the AI DevOps team, building and deploying enterprise-scale AI/ML and generative AI automation solutions
-- **🦅 Military Service**: Former U.S. Army Combat Medic, bringing discipline, leadership, and calm-under-pressure decision making
+- **🦅 Military Service**: Former U.S. Army Medic, bringing discipline, leadership, and calm-under-pressure decision making
 - **🏥 Healthcare Experience**: Over a decade in emergency and acute care environments, developing empathy and crisis response
 - **🧘‍♂️ Disciplined Practice**: Daily meditation, martial arts, and focused training informing system design principles
 
