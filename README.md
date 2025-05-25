@@ -1,6 +1,6 @@
 # 🪶 **Hans Havlik | @hams_ollo**
 
-> **Chief Technical Officer | Enterprise AI Architect | Multi-Agent Systems Specialist**
+> **Senior Technical Officer | Enterprise AIOps Senior Deeloper | Multi-Agent Systems Architect**
 
 <div align="center">
   
