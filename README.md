@@ -51,6 +51,18 @@ Lead architect for enterprise-scale AI automation platforms serving Fortune 500 
 
 ## 🚀 Featured Projects
 
+### [GADM Work Assistant (GEMI)](https://github.com/Hams-Ollo/gadm-work-assistant)
+*Enterprise AI Platform for ServiceNow Automation*
+
+Lead architect for enterprise-scale AI automation platform serving Fortune 500 clients:
+
+- 🏢 **Enterprise Scale**: Serving thousands of employees with 99.99% uptime
+- 🤖 **Multi-Agent Architecture**: LangChain, CrewAI, and Azure OpenAI (GPT-4o) orchestration
+- 🔧 **ServiceNow Integration**: Vector-based incident search, ML-powered routing, automated workflows
+- 💬 **Microsoft Teams Bot**: Node.js/TypeScript frontend with Python FastAPI backend
+- ☁️ **Azure Infrastructure**: Kubernetes deployment with Redis Enterprise caching
+- 📈 **Business Impact**: 40% productivity improvement, 60% reduction in manual processing
+
 ### [EVA RAG Platform](https://github.com/Hams-Ollo/eva-rag-platform)
 *Production Knowledge Intelligence System*
 
