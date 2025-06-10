@@ -1,6 +1,6 @@
 # 🪶 **Hans Havlik | @hams_ollo**
 
-> **Senior Technical Officer | Enterprise AIOps Senior Deeloper | Multi-Agent Systems Architect**
+> **Senior Technical Officer | Enterprise AIOps Senior Developer | Multi-Agent Systems Architect**
 
 <div align="center">
   
@@ -29,7 +29,7 @@ Leading the development of ethical AI solutions that enhance human potential whi
 
 ## 🚀 Current Professional Focus
 
-### Chief Technical Officer - Elevated Vector Automation LLC
+### Chief Technical Officer - [Elevated Vector Automation LLC](https://elevatedvector.ai)
 *December 2024 - Present*
 
 Leading comprehensive AI platform architecture for ethical AI consultancy, developing production-ready systems that enhance human capability:
@@ -51,7 +51,7 @@ Lead architect for enterprise-scale AI automation platforms serving Fortune 500 
 
 ## 🚀 Featured Projects
 
-### [GADM Work Assistant (GEMI)](https://github.com/Hams-Ollo/gadm-work-assistant)
+### [GADM Work Assistant (ITSM AI Assistant for enterprise servicenow environments)](https://github.com/Hams-Ollo/gadm-work-assistant)
 *Enterprise AI Platform for ServiceNow Automation*
 
 Lead architect for enterprise-scale AI automation platform serving Fortune 500 clients:
@@ -63,45 +63,18 @@ Lead architect for enterprise-scale AI automation platform serving Fortune 500 c
 - ☁️ **Azure Infrastructure**: Kubernetes deployment with Redis Enterprise caching
 - 📈 **Business Impact**: 40% productivity improvement, 60% reduction in manual processing
 
-### [EVA RAG Platform](https://github.com/Hams-Ollo/eva-rag-platform)
-*Production Knowledge Intelligence System*
+### [EVA (EVA 2.0 Multi-Agent System Demo 🤖🔄)](https://github.com/Hams-Ollo/EVA_Demo)
+*A smart system where multiple AI "agents" work together, coordinated by a manager.*
 
-Comprehensive RAG platform featuring advanced document processing, semantic search, and conversational AI:
+This project showcases a smart system where multiple AI "agents" (think of them as specialized AI assistants) work together. It's like having a team of experts, each good at one thing, coordinated by a manager.
+This demo uses a technology called **LangGraph** to manage how these AIs work together, deciding who does what and when. It's designed to be efficient and smart in handling your requests.
 
-- 📄 Multi-format document ingestion (PDF, DOCX, XLSX, TXT, Markdown)
-- 🔍 Semantic search with 95%+ accuracy using Supabase/PgVector
-- 🎯 FastAPI backend with LangChain orchestration and Streamlit frontend
-- 🐳 Containerized GCP deployment with comprehensive observability
-
-### [The Sandbox](https://github.com/Hams-Ollo/the_sandbox)
-*AI Innovation Environment*
-
-Open-source playground for experimenting with advanced AI systems:
-
-- 🏗️ Custom knowledge graph-driven applications
-- 🧪 Tool-calling mechanisms and multi-agent frameworks
-- 🤖 Educational resources for agentic system development
-- ✨ Advanced prompt engineering techniques
-
-### [ZenBot](https://github.com/Hams-Ollo/ZenBot)
-*Advanced AI Orchestration System*
-
-Multi-agent architecture for knowledge management and strategic decision-making:
-
-- 📚 Trinity Knowledge Management System
-- 🤖 Specialized agent task handling with context awareness
-- 🔄 Dynamic workflow automation
-- 🔍 Intelligent search and knowledge synthesis
-
-### [Batman & Alfred Framework](https://github.com/Hams-Ollo/batman-alfred)
-*Personalized AI Assistant Architecture*
-
-Reference implementation for building specialized AI assistants:
-
-- 🦇 Human operator profile structures
-- 🤵 Agent specialization patterns and communication protocols
-- 🧩 Inter-agent coordination examples
-- 🔧 Enterprise tool integration patterns
+**Key Features You'll See:**
+- **Teamwork Structure (Hierarchical Agents) 🏛️**: A clear manager-and-specialist setup.
+- **Smart Task Assignment (Dynamic Routing) 🚦**: The manager AI intelligently sends tasks to the right specialist.
+- **Specialists with Superpowers (Tool-Equipped Agents) 🛠️**: Agents use their unique tools to get things done.
+- **Quick Responses (Asynchronous Operations) ⚡**: The system can handle multiple things smoothly without getting stuck, making it feel responsive.
+- **🧠 Intelligent Memory System**: EVA remembers your conversations! The system maintains context across multiple interactions, allowing for natural follow-up questions and references to previous requests.
 
 ## 🌱 Community & Philosophy
 
@@ -116,7 +89,7 @@ Building technology within a community that values technical excellence and huma
 
 My approach to technology is shaped by diverse experiences:
 
-- **🏢 Enterprise Leadership**: CTO at Elevated Vector Automation, architecting ethical AI solutions
+- **🏢 Enterprise Leadership**: CTO at [Elevated Vector Automation LLC](https://elevatedvector.ai), architecting ethical AI solutions
 - **💻 Enterprise AI/ML**: 3 years at Capgemini GADM AIOps team building Fortune 500 AI platforms
 - **🦅 Military Foundation**: Former U.S. Army Combat Medic, bringing discipline and crisis response skills
 - **🏥 Healthcare Background**: Emergency and acute care experience developing empathy and precision
@@ -142,7 +115,9 @@ Open to collaborating on projects that create thoughtful, robust AI systems enha
 
 ## 📫 Connect
 
-- **Email**: [hhavlik318@gmail.com](mailto:hhavlik318@gmail.com)
+- **Email (Personal)**: [hhavlik318@gmail.com](mailto:hhavlik318@gmail.com)
+- **Email (Elevated Vector)**: [hans.havlik@elevatedvector.com](mailto:hans.havlik@elevatedvector.com)
+- **Website (Elevated Vector)**: [elevatedvector.ai](https://elevatedvector.ai)
 - **LinkedIn**: [linkedin.com/in/hans-havlik-86178979](https://www.linkedin.com/in/hans-havlik-86178979/)
 - **Twitter**: [@hams_ollo](https://twitter.com/hams_ollo)
 - **Instagram**: [@zensolutionsai](https://www.instagram.com/zensolutionsai/)
