@@ -44,7 +44,7 @@ Leading comprehensive AI platform architecture for ethical AI consultancy, devel
 
 Lead architect for enterprise-scale AI automation platforms serving Fortune 500 clients:
 
-- **🏗️ GADM Work Assistant (GEMI)**: Enterprise AI platform with sophisticated ServiceNow integration and 99.99% uptime
+- **🏗️ GADM Work Assistant (GEMI)**: Enterprise AI platform with sophisticated ServiceNow integration
 - **📈 Business Impact**: Achieved 40% productivity improvement and 60% reduction in manual processing
 - **🤖 Agentic Architecture**: Built multi-agent systems for autonomous incident management and intelligent routing
 - **☁️ Azure Infrastructure**: Designed scalable Kubernetes deployment with Redis Enterprise caching
@@ -56,7 +56,7 @@ Lead architect for enterprise-scale AI automation platforms serving Fortune 500 
 
 Lead architect for enterprise-scale AI automation platform serving Fortune 500 clients:
 
-- 🏢 **Enterprise Scale**: Serving thousands of employees with 99.99% uptime
+- 🏢 **Enterprise Scale**: Serving thousands of employees
 - 🤖 **Multi-Agent Architecture**: LangChain, CrewAI, and Azure OpenAI (GPT-4o) orchestration
 - 🔧 **ServiceNow Integration**: Vector-based incident search, ML-powered routing, automated workflows
 - 💬 **Microsoft Teams Bot**: Node.js/TypeScript frontend with Python FastAPI backend
