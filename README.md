@@ -116,7 +116,7 @@ Open to collaborating on projects that create thoughtful, robust AI systems enha
 ## 📫 Connect
 
 - **Email (Personal)**: [hhavlik318@gmail.com](mailto:hhavlik318@gmail.com)
-- **Email (Elevated Vector)**: [hans.havlik@elevatedvector.com](mailto:hans.havlik@elevatedvector.com)
+- **Email (Elevated Vector)**: [hans@elevatedvector.ai](mailto:hans@elevatedvector.ai)
 - **Website (Elevated Vector)**: [elevatedvector.ai](https://elevatedvector.ai)
 - **LinkedIn**: [linkedin.com/in/hans-havlik-86178979](https://www.linkedin.com/in/hans-havlik-86178979/)
 - **Twitter**: [@hams_ollo](https://twitter.com/hams_ollo)
