@@ -3,10 +3,10 @@
 
 <div align="center">
   
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Zen%20Solutions-red?style=for-the-badge&logo=youtube)](https://youtube.com/@ZenSolutions)
-[![Medium](https://img.shields.io/badge/Medium-The%20Zen%20Solution-black?style=for-the-badge&logo=medium)](https://medium.com/@thezensolution)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-The%20Zen%20Solution-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@the_zen_solution)
+[![Medium](https://img.shields.io/badge/Medium-@hams__ollo-black?style=for-the-badge&logo=medium)](https://medium.com/@hams_ollo)
 [![Substack](https://img.shields.io/badge/Substack-Newsletter-orange?style=for-the-badge&logo=substack)](https://substack.com/@thezensolution)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hans-havlik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hans-havlik-86178979/)
 
 **AI Solutions Architect • Army Veteran • Father • Storyteller**
 
@@ -25,8 +25,8 @@ But here's what really drives me: **helping YOU build your own AI solutions.**
 ## 🎥 **What I'm Building**
 
 ### **The Zen Solution Ecosystem**
-- **🎬 [YouTube Channel](https://youtube.com/@ZenSolutions)**: Deep AI tutorials, live coding, and chill gaming streams in "The Den of Zen"
-- **📝 [Medium Articles](https://medium.com/@thezensolution)**: Technical deep-dives and enterprise insights  
+- **🎬 [YouTube Channel](https://www.youtube.com/@the_zen_solution)**: Deep AI tutorials, live coding, and chill gaming streams in "The Den of Zen"
+- **📝 [Medium Articles](https://medium.com/@hams_ollo)**: Technical deep-dives and enterprise insights  
 - **💌 [Substack Newsletter](https://substack.com/@thezensolution)**: Weekly wisdom where philosophy meets technology
 - **🎮 Gaming Streams**: Because even AI architects need to decompress
 
@@ -112,8 +112,8 @@ When I'm not architecting AI systems, you'll find me:
 ## 🤝 **Let's Build Together**
 
 **For Learners:**
-- 🎥 Subscribe to the [YouTube channel](https://youtube.com/@ZenSolutions) for hands-on tutorials
-- 📖 Follow my [Medium](https://medium.com/@thezensolution) for deep technical insights
+- 🎥 Subscribe to the [YouTube channel](https://www.youtube.com/@the_zen_solution) for hands-on tutorials
+- 📖 Follow my [Medium](https://medium.com/@hams_ollo) for deep technical insights
 - 💌 Join the [Substack community](https://substack.com/@thezensolution) for weekly wisdom
 
 **For Collaborators:**
@@ -129,8 +129,8 @@ When I'm not architecting AI systems, you'll find me:
 
 - **📧 Email**: [hans.havlik@capgemini.com](mailto:hans.havlik@capgemini.com)
 - **🐦 Twitter**: [@hams_ollo](https://twitter.com/hams_ollo)  
-- **📸 Instagram**: [@zensolutionsai](https://instagram.com/zensolutionsai)
-- **💼 LinkedIn**: [Hans Havlik](https://linkedin.com/in/hans-havlik)
+- **📸 Instagram**: [@hams_ollo](https://www.instagram.com/hams_ollo/)
+- **💼 LinkedIn**: [Hans Havlik](https://www.linkedin.com/in/hans-havlik-86178979/)
 
 ---
 
