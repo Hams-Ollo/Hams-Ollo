@@ -16,7 +16,7 @@
 
 ## 🧘‍♂️ **The Journey**
 
-From **Army Sergeant** to **AI Solutions Architect** — my path has been anything but conventional. After 10 years of military service and a transition through healthcare, I now lead enterprise AI transformations for Fortune 500 companies at Capgemini, where our team processes 300,000+ incidents monthly with 95% automation success rates.
+From **Army Sergeant** to **AI Solutions Architect** — my path has been anything but conventional. After 10 years of military service and a transition through healthcare, I now lead enterprise AI transformations for Fortune 500 companies at Capgemini, where our team processes 300,000+ incidents monthly.
 
 But here's what really drives me: **helping YOU build your own AI solutions.**
 
