@@ -127,7 +127,7 @@ When I'm not architecting AI systems, you'll find me:
 
 ## 📫 **Connect**
 
-- **📧 Email**: [hans.havlik@capgemini.com](mailto:hans.havlik@capgemini.com)
+- **📧 Email**: [hans@elevatedvector.ai](mailto:hans@elevatedvector.ai)
 - **🐦 Twitter**: [@hams_ollo](https://twitter.com/hams_ollo)  
 - **📸 Instagram**: [@hams_ollo](https://www.instagram.com/hams_ollo/)
 - **💼 LinkedIn**: [Hans Havlik](https://www.linkedin.com/in/hans-havlik-86178979/)
