@@ -16,7 +16,7 @@
 
 ## 🧘‍♂️ **The Journey**
 
-From **Army Sergeant** to **AI Solutions Architect** — my path has been anything but conventional. After 10 years of military service and a transition through healthcare, I now lead enterprise AI transformations for Fortune 500 companies at Capgemini, where our team processes 300,000+ incidents monthly.
+From **Army Sergeant** to **AI Solutions Architect** — my path has been anything but conventional. After 10 years of military service and a transition through healthcare, I now contribute to enterprise AI transformations for Cloud Enterprise platforms.
 
 But here's what really drives me: **helping YOU build your own AI solutions.**
 
@@ -52,34 +52,12 @@ expertise = {
 ```
 
 **☁️ Architecture & Infrastructure**  
-Azure • GCP • Kubernetes • Docker • FastAPI • React • PostgreSQL
+Azure • GCP • Kubernetes • Docker • FastAPI • React • PostgreSQL 
 
 **🎯 What Makes This Different**  
 I don't just teach theory — I architect systems that serve **thousands of enterprise users** in production. Every tutorial comes from real-world battle scars and genuine victories.
 
 ## 🏗️ **Featured Projects**
-
-### [🤖 EVA Multi-Agent Demo](https://github.com/Hams-Ollo/EVA_Demo)
-*See how multiple AI agents collaborate like a real team*
-
-A complete multi-agent system using LangGraph where specialized AI agents work together. Think of it as your personal AI dev team — one agent handles research, another writes code, and a manager coordinates everything.
-
-**What You'll Learn:**
-- Multi-agent orchestration patterns
-- Tool-equipped AI agents  
-- Memory systems that actually work
-- Production-ready architecture
-
-### [🏢 Enterprise ITSM Assistant](https://github.com/Hams-Ollo/gadm-work-assistant)
-*Real enterprise AI serving Fortune 500 companies*
-
-This isn't a toy demo — it's the actual system processing hundreds of thousands of incidents monthly for major corporations. Fully integrated with ServiceNow, Microsoft Teams, and Azure infrastructure.
-
-**Real Business Impact:**
-- 40% productivity improvement
-- 60% reduction in manual processing  
-- Serving thousands of enterprise users
-- 95%+ automation success rate
 
 ## 🌱 **The Philosophy**
 
