@@ -43,9 +43,9 @@ Started as a project for my gaming group. Became a production-grade demonstratio
 
 **Enterprise AI:** Senior AI Solutions Architect specializing in enterprise-grade AI systems. I process high-volume agent requests and orchestrate complex workflows for thousands of users in live production environments. Working with dozens of clients across aerospace, logistics, global retail, and healthcare, I build multi-agentic solutions featuring human-in-the-loop oversight and self-healing capabilities. My architectures are rooted in real-world metrics, establishing self-improvement loops that optimize performance autonomously based on live production data.
 
-**Military Medical:** U.S. Army Combat Medic (68W), 4 years active + reserves. 3rd Infantry Division, Forward Reconnaissance Unit. Systems coordination, logistics, leadership under pressure.
+**Military Medical:** U.S. Army, 4 years active + 6 reserves. Forward Reconnaissance Unit. Systems coordination, logistics, leadership under pressure.
 
-**Spiritual Practice:** 30+ years in the Gaudiya Vaishnava tradition, including years in ashrams in India. 3:30 AM wake-ups, daily meditation, Sanskrit study. This discipline shapes how I approach technical work.
+**Spiritual Practice:** 30+ years in the Gaudiya Vaishnava tradition, including 5 years in yoga ashrams in India. Mindful Meditation practices and dedicated time for continued learning and study. This discipline shapes how I approach technical work.
 
 ---
 
@@ -59,7 +59,7 @@ Core conviction: the best technology creates space for human flourishing rather 
 
 ## Connect
 
-**Email:** hans@elevatedvector.ai  
+**Email:** hamsa318@gmail.com 
 **LinkedIn:** [Hans Havlik](https://www.linkedin.com/in/hans-havlik-86178979/)  
 **Substack:** [The Zen Solution](https://substack.com/@thezensolution)  
 **YouTube:** [@the_zen_solution](https://www.youtube.com/@the_zen_solution)
